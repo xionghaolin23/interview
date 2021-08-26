@@ -24,6 +24,7 @@ import java.util.Arrays;
  * <p>
  * 输入：nums = [3,3], target = 6
  * 输出：[0,1]
+ *  https://leetcode-cn.com/problems/two-sum/
  */
 public class Solution {
 
